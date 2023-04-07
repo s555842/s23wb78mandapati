@@ -1,6 +1,8 @@
-# s23wb78Mandapati
+# s23wb78mandapati
 Remote repo for dynamic pages testing
 
-Render URL:<https://s23wb78mandapati.onrender.com>
+This is my first repo render
 
-Id with my class is "Student"  with attributes Stu_Name(String),Stu_Age(number),Mail_Id(String)
+Render_Link:<https://s23wb78mandapati.onrender.com/>
+
+This is my class "Student"  with attributes Stu_Name(String),Stu_Age(number),Mail_Id(String)
